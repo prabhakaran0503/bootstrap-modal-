@@ -1,0 +1,76 @@
+*{
+	padding:0;
+	margin:0;
+	box-sizing:border-box;
+	
+}
+
+   /*baneer-sec*/
+  
+/* .banner-contaner{
+	width: 100%;
+	height: 100vh;
+}
+.banner-row{
+	width: 100%;
+	margin: auto;
+}
+.carousel-item img{
+	width: 100%;
+} */
+
+
+
+
+
+
+								
+									/*card sec*/
+
+
+/* .card-sec{
+	width: 100%;
+}
+.card-contanier{
+	width: 80%;
+	margin: auto;
+}	
+.card-row{
+	display: flex;
+	flex-wrap: wrap;
+	
+}						 */
+	
+
+
+
+								/*accadian*/
+
+
+.accadian-sec{
+	width: 100%;
+	padding-top: 30px;
+	
+}		
+.accadian-contaner{
+	width: 80%;
+	margin: auto;
+}				
+.accadian-row h2{
+	text-align: center;
+	padding-bottom: 30px;
+}		
+
+								/*card sec*/
+
+.card-sec{
+	width: 100%;
+}				
+.card-container{
+	width: 80%;
+	margin: auto;
+}				
+.card-row h2{
+	text-align: center;
+	padding-bottom: 30px;
+}
